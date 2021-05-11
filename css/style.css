@@ -313,6 +313,7 @@ body{
 }
 /*---------------- End boxColors ------------------*/
 
+/*---------------- Start btn up ------------------*/
 #btnUp
 {
     position: fixed;
@@ -323,12 +324,10 @@ body{
     background-color: #d62e33;
     color: #999;
 }
+/*---------------- Start btn up ------------------*/
 
 /*---------------- Start media ------------------*/
 @media screen and (max-width: 576px) {
-    html{
-        font-size: 0.8rem;
-    }
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
     #main h2
