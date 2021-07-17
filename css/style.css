@@ -343,7 +343,7 @@ body{
     }
     #count .container {padding: 30px 150px}
     #count .container .tim {
-        padding: 15px;
+        padding: 2px;
         border: 1px solid #fff;
     }
     #Contact {margin-top: 50px; text-align: center}
@@ -415,6 +415,16 @@ body{
         left: 0px;
         z-index: 999999999999;
         transition: left 1s;
+    }
+    .boxColors ul {
+        padding: 5px 11px;
+    }
+    .boxColors ul li {
+        width: 20px;
+        height: 18px;
+    }
+    .boxColors h4 {
+        font-size: 14px;
     }
 }
 /*---------------- End media ------------------*/
